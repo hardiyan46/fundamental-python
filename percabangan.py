@@ -7,6 +7,5 @@ if cepat:
 else:
     print('jalan lain')
 
-"""
-percabangan digunakan untuk 
-"""
+("\n"
+ "percabangan adalah perintah eksekusi terpilih, dimana ada kondisi yang harus terpenuhi.\n")
