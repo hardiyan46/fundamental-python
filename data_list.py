@@ -15,4 +15,4 @@ for a in anak_yunus:
 
 #sapa semua anak metode ribet
 for a in range(0, len(anak_darja)):         #len digunakan untuk mengambil jumlah list
-    print (f'Hai {anak_darja[a]}')
+    print (f'{a+1}Hai {anak_darja[a]}')
