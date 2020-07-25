@@ -18,7 +18,7 @@ data_dari_server_gojek = {
     'driver_list': [                        #Penggunaan data List dengan Data Dictionary
         {'nama': 'Hardiyan', 'jarak': 10},
         {'nama': 'Devi', 'jarak': 20},
-        {'nama':'Jenna','jarak': 30 },
+        {'nama': 'Jenna','jarak': 30 },
         {'nama': 'Jihan','jarak': 40}
     ]
 }
